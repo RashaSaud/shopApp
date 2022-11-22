@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "933003367454",
+    "project_id": "asroo-shop-getx-ad001",
+    "storage_bucket": "asroo-shop-getx-ad001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933003367454:android:13f9179afa2a4260118a0f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933003367454-gp9i8d982h5vgm6s1qrui2avmvo3mufs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "e156b5d16d2f88e1a54635b816ff5f18e8667b56"
+          }
+        },
+        {
+          "client_id": "933003367454-ut34dsnt8evk7ecg8cpl3n9i21ilj9tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Da-wRpDycKkAu7XMqEvzjpnRVwnNLMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933003367454-ut34dsnt8evk7ecg8cpl3n9i21ilj9tv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933003367454-g88ak5m5m6tm9m84gssm52s9qpac4c5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "asroo-shop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
